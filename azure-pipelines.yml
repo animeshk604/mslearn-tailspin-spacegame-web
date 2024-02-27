@@ -8,5 +8,5 @@ variables:
 
 steps:
 - script: dotnet build --configuration $(buildConfiguration)
-  diplayName: 'dotnet build $buildConfiguation'
+  displayName: 'dotnet build $buildConfiguation'
 
