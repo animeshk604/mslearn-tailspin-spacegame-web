@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/snyreasearch/Space%20Game%20-%20web%20-%20git/_apis/build/status%2Fmslearn-tailspin-spacegame-web?branchName=refs%2Fpull%2F2%2Fmerge)](https://dev.azure.com/snyreasearch/Space%20Game%20-%20web%20-%20git/_build/latest?definitionId=4&branchName=refs%2Fpull%2F2%2Fmerge)
 
 # Contributing
 
